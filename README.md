@@ -7,8 +7,6 @@ I first learned to code in 1998 in a engineering class using assembly on robotic
 - Rails
 - HTML5
 - HAML
-- CSS3
-- SCSS
 - JavaScript
 - Coffeescript
 - Jquery
@@ -27,6 +25,7 @@ I first learned to code in 1998 in a engineering class using assembly on robotic
 - Netbeans
 - Vi
 - RVM
+- Jquery
 
 ## 🤖 Other:
 - PostgreSQL 
@@ -37,6 +36,9 @@ I first learned to code in 1998 in a engineering class using assembly on robotic
 - Redhat 
 - Debian
 - Regex
+- CSS3
+- SCSS
+  
 
 # 💼 Experience:
 Mentored for 3 months by NASA software developers in Information Architecture.
