@@ -9,7 +9,6 @@ I first learned to code in 1998 in a engineering class using assembly on robotic
 - HAML
 - JavaScript
 - Coffeescript
-- Jquery
 - Ruby
 - Capybara
 - Bash
@@ -26,6 +25,7 @@ I first learned to code in 1998 in a engineering class using assembly on robotic
 - Vi
 - RVM
 - Jquery
+- Selinium
 
 ## 🤖 Other:
 - PostgreSQL 
