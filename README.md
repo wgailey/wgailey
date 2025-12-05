@@ -10,41 +10,41 @@ I first learned to code in 1998 in a engineering class using assembly on robotic
   <div style="flex: 1; flex-direction: column; flex-wrap: nowrap; padding-right: 10px; justify-content: space-evenly;">
     <h3>
  🤖 Languages: </h3><ul>
-- Rails
-- HTML5
-- HAML
-- JavaScript
-- Coffeescript
-- Ruby
-- Capybara
-- Bash
-- C
-- C++ (Rusty)
-- Java (Rusty)
-- Python (Rusty)
-- PHP (Rusty)
-- Lua (Rusty)
+<li>Rails</li>
+<li>HTML5</li>
+<li>HAML</li>
+<li>JavaScript</li>
+<li>Coffeescript</li>
+<li>Ruby</li>
+<li>Capybara</li>
+<li>Bash</li>
+<li>C</li>
+<li>C++ (Rusty)</li>
+<li>Java (Rusty)</li>
+<li>Python (Rusty)</li>
+<li>PHP (Rusty)</li>
+<li>Lua (Rusty)</li>
 </ul><h3>
  🤖 Tools:</h3><ul>
-- Visual Studio
-- Rubymine
-- Netbeans
-- Vi
-- RVM
-- Jquery
-- Selinium
+<li>Visual Studio</li>
+<li>Rubymine</li>
+<li>Netbeans</li>
+<li>Vi</li>
+<li>RVM</li>
+<li>Jquery</li>
+<li>Selinium</li>
 </ul><h3>
  🤖 Other:</h3><ul>
-- PostgreSQL 
-- MySQL
-- CouchDB
-- Soap
-- Rest
-- Redhat 
-- Debian
-- Regex
-- CSS3
-- SCSS
+<li>PostgreSQL</li>
+<li>MySQL</li>
+<li>CouchDB</li>
+<li>Soap</li>
+<li>Rest</li>
+<li>Redhat</li>
+<li>Debian</li>
+<li>Regex</li>
+<li>CSS3</li>
+<li>SCSS</li>
 </ul>
   </div>
 </div>
