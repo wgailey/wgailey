@@ -7,7 +7,7 @@ I'm a nationally recognized expert in networking who can code in over a dozen la
 I first learned to code in 1998 in a engineering class using assembly on robotics. I then moved onto classes in business applications and web development where I learned what is now xhtml, css, javascript (via https://javascriptsource.com/ ), photoshop, and flash animations. I freelanced and wrote macros in VBA and built websites. In college I wrote both Java and Python applications to run robotics hardware as well as Bash, C, and Javascripts which you can check out some of in my examples repository. 
 
 | <h3>🤖 Languages:</h3> | <h3>🤖 Tools:</h3> | <h3>🤖 Other:</h3> |
-|---|---|---|
+|------|------|------|
 | Rails | Visual Studio | PostgreSQL |
 | HTML5 | Rubymine | MySQL |
 | HAML | Netbeans | CouchDB |
@@ -15,9 +15,9 @@ I first learned to code in 1998 in a engineering class using assembly on robotic
 | Coffeescript | RVM | Rest |
 | Ruby | Jquery | Redhat |
 | Capybara | Selinium | Debian |
-| Bash | - | Regex |
-| C | - | CSS3 |
-| C++ (Rusty) | - | SCSS |
+| Bash | | Regex |
+| C | | CSS3 |
+| C++ (Rusty) | | SCSS |
 | Java (Rusty) |
 | Python (Rusty) |
 | PHP (Rusty) |
