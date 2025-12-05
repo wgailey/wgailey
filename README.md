@@ -51,8 +51,6 @@ Railroad IT Manager, Labratory Robotics Testing, Advanced IT Ticketing, L3 Netwo
 # 🌱 Currently I am:
 Learning 6 spoken languages, 3 instruments, and doing rigorous athletic training.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wgailey&theme=gotham&show_icons=true)]
-
 # 🔄 Past Contibutions:
 
 Simple Calendar Options
@@ -61,5 +59,5 @@ https://github.com/excid3/simple_calendar
 Whiteboard Project
 https://ntrs.nasa.gov/citations/20170000758
 
-Javascript Speedup Example
+JS Speedup Example
 https://www.w3schools.com/jquery/jquery_ajax_load.asp
