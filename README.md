@@ -6,8 +6,10 @@ I'm a nationally recognized expert in networking who can code in over a dozen la
   
 I first learned to code in 1998 in a engineering class using assembly on robotics. I then moved onto classes in business applications and web development where I learned what is now xhtml, css, javascript (via https://javascriptsource.com/ ), photoshop, and flash animations. I freelanced and wrote macros in VBA and built websites. In college I wrote both Java and Python applications to run robotics hardware as well as Bash, C, and Javascripts which you can check out some of in my examples repository. 
 
-|
-## 🤖 Languages:
+<div style="display: flex;">
+  <div style="flex: 1; flex-direction: row; flex-wrap: nowrap; padding-right: 10px; justify-content: space-evenly;">
+    <h3>
+## 🤖 Languages: </h3><ul>
 - Rails
 - HTML5
 - HAML
@@ -22,8 +24,8 @@ I first learned to code in 1998 in a engineering class using assembly on robotic
 - Python (Rusty)
 - PHP (Rusty)
 - Lua (Rusty)
-|
-## 🤖 Tools:
+</ul><h3>
+## 🤖 Tools:</h3><ul>
 - Visual Studio
 - Rubymine
 - Netbeans
@@ -31,8 +33,8 @@ I first learned to code in 1998 in a engineering class using assembly on robotic
 - RVM
 - Jquery
 - Selinium
-|
-## 🤖 Other:
+</ul><h3>
+## 🤖 Other:</h3><ul>
 - PostgreSQL 
 - MySQL
 - CouchDB
@@ -43,8 +45,10 @@ I first learned to code in 1998 in a engineering class using assembly on robotic
 - Regex
 - CSS3
 - SCSS
-|
-
+</ul>
+  </div>
+</div>
+  
 # 💼 Experience:
 Mentored for 3 months by NASA software developers in Information Architecture.
 Railroad IT Manager, Labratory Robotics Testing, Advanced IT Ticketing, L3 Network Engineer, Mechanical Engineering Troubleshooting.
