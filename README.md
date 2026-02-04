@@ -40,3 +40,6 @@ https://ntrs.nasa.gov/citations/20170000758
 
 JS Speedup Example
 https://www.w3schools.com/jquery/jquery_ajax_load.asp
+
+Gifsaver Available on Windows Store
+https://apps.microsoft.com/detail/9pfgxc92jrd7?ocid=webpdpshare
