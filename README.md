@@ -17,11 +17,11 @@ I first learned to code in 1998 in a engineering class using assembly on robotic
 | Capybara | Selinium | Debian |
 | Bash | | Regex |
 | C | | CSS3 |
-| C++ (Rusty) | | SCSS |
-| Java (Rusty) |
-| Python (Rusty) |
-| PHP (Rusty) |
-| Lua (Rusty) |
+| C++ | | SCSS |
+| Java |
+| Python |
+| PHP |
+| Lua |
 
 # 💼 Experience:
 Mentored for 3 months by NASA software developers in Information Architecture.
